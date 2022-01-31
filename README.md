@@ -10,4 +10,4 @@ cd frontend && yarn start
 ```
 
 Volahh, now you have a chat application running in your machine. 
-#### Test it by opening in different windows (starting new sockets)
+### Test it by opening in different windows `starting new sockets`
